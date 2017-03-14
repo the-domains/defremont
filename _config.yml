@@ -1,0 +1,158 @@
+color:
+  brandColors:
+    - '#11120D'
+    - '#FFFFFF'
+    - '#545655'
+    - '#B8C3BB'
+    - '#817977'
+  brandStrength: 0.11569682159461081
+  lightness: 0.9770376775413752
+  saturation: 0.9822922185994685
+  rhythmicContrast: 0.8591537883039564
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Defremont
+layout_spectrum: 0.07588861440308392
+typography_spectrum: 0.17366986023262143
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6v2L2UGZJAM%3Fstart%3D289%26feature%3Doembed%26start%3D289&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6v2L2UGZJAM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6v2L2UGZJAM%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Robert Revol
+          url: 'https://www.youtube.com/user/RobertLVI'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - planet
+        - earth
+        - 1080p
+        - hd
+        - mountains
+        - seas
+        - waters
+        - ocean
+        - pole
+        - jungles
+        - caves
+        - ice
+        - worlds
+        - deserts
+        - from
+        - space
+        - nature
+        - wildlife
+        - discovery
+        - channel
+        - bbc
+        - ...
+      description: >-
+        MY FACEBOOK: https://www.facebook.com/pages/Robert-Revol/513509595334572
+        MY TWITTER: https://twitter.com/RobertRevol MY INSTAGRAM:
+        http://www.instagram.com/robertrevol MY GOOGLE PLUS:
+        https://plus.google.com/+RobertRevol
+        ----------------------------------------­----------------------------------------­-----
+        "Planet Earth" is a 2006 television series produced by the BBC Natural
+        History Unit. After I have watched all eleven episodes, I tried to
+        compress all the beautiful images in one video.
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6v2L2UGZJAM&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6v2L2UGZJAM&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=6v2L2UGZJAM&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6v2L2UGZJAM&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6v2L2UGZJAM&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=6v2L2UGZJAM'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=6v2L2UGZJAM
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=6v2L2UGZJAM
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/6v2L2UGZJAM?t=4m49s'
+      title: '► Planet Earth: Amazing nature scenery (1080p HD)'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a54b78e-1935-4f55-9440-53e979a0103a.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a54b78e-1935-4f55-9440-53e979a0103a.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: internal
+    label: Saiba mais
+    item: faf7042f-bc6c-4b6f-89a4-a1bfce3ed166
+title: I.A para design de Websites
+description: Utilizando "Thegird"
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bdd89e9-e830-4f53-bf1e-2092a56195e8.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d9b849-6b13-4a01-9c2e-08d33f957366.png
+author:
+  name: André Defrémont
+  email: andre.def93@gmail.com
+analytics:
+  twitter: Defrémont
