@@ -1,14 +1,16 @@
+layout_spectrum: 0.7022754324968941
+typography_spectrum: 0.17702930869543834
 color:
   brandColors:
-    - '#11120D'
-    - '#FFFFFF'
-    - '#545655'
-    - '#B8C3BB'
-    - '#817977'
-  brandStrength: 0.11569682159461081
-  lightness: 0.9770376775413752
-  saturation: 0.9822922185994685
-  rhythmicContrast: 0.8591537883039564
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.5115365901186435
+  lightness: 0.060134199949921946
+  saturation: 0.3197182576964139
+  rhythmicContrast: 0.18424072686075646
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Defremont
-layout_spectrum: 0.07588861440308392
-typography_spectrum: 0.17366986023262143
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
