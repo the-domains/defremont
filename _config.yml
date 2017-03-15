@@ -144,6 +144,9 @@ purpose:
   - type: internal
     label: Saiba mais
     item: faf7042f-bc6c-4b6f-89a4-a1bfce3ed166
+  - type: contact
+    url: 'mailto:andre.def93@gmail.com'
+    label: Fale comigo
 title: I.A para design de Websites
 description: Utilizando "Thegird"
 github: true
